@@ -22,7 +22,7 @@ For Ollama, you need to manually download and install the package. Follow these 
 
 Download the Ollama package from ``https://www.ollama.com/download``.
 Extract the contents of the package.
-Follow the installation instructions provided in the package.
+Follow the installation instructions from ``https://github.com/ollama/ollama``.
 
 ## Environment Variables
 This project requires some environment variables to be set for API keys and tracing. Create a .env file in the root directory of your project and add the following variables:
